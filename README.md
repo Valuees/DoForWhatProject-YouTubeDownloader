@@ -19,14 +19,14 @@ I also give the sauce code of this program.
    - install [**TDM GCC**](https://jmeubank.github.io/tdm-gcc/)
    - open extention and install [**C/C++ Extention pack**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack)
      after install **C/C++ Extention pack** do this
-     • Ctrl+Shift+P type `C/C++:Edit COnfigurations (UI)` and click it
-     • then set **Compiler path** tp `C:\TDM-GCC-64\bin\gcc.exe`
-     • then set **IntelliSense mode** to `windown-gcc-x64`
-     • then set **C standard** and **C++ standard** to `c17` and `c++17`
+     - Ctrl+Shift+P type `C/C++:Edit COnfigurations (UI)` and click it
+     - then set **Compiler path** tp `C:\TDM-GCC-64\bin\gcc.exe`
+     - then set **IntelliSense mode** to `windown-gcc-x64`
+     - then set **C standard** and **C++ standard** to `c17` and `c++17`
    - Install [**Code Runner**](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) For Easy run
-     • After install **Code Runner** open Setting(*Ctrl + `*)
-     • Find Extention and click it
-     • find **Run Code configuration**
-     • then find **Run In Terminal** and click enable
-     • then find **Save File Before Run** and click enable
+     - After install **Code Runner** open Setting(*Ctrl + `*)
+     - Find Extention and click it
+     - find **Run Code configuration**
+     - then find **Run In Terminal** and click enable
+     - then find **Save File Before Run** and click enable
      
