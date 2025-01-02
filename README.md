@@ -19,7 +19,7 @@ I also give the sauce code of this program.
    3. You can use this command to complie C code
          - `gcc "<sauce code file path>" -c -o main`
            
-   4. Optional
+   *__Optional__*
       1. install **IDE or text editor**( Vscode, vistual code, nodepad++, Code::Blocks, etc..)
       2. in case you install VScode
          - install [**TDM GCC**](https://jmeubank.github.io/tdm-gcc/)
