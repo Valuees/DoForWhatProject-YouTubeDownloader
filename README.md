@@ -1,4 +1,4 @@
-# YouTubeDownloader - consloeApp(only windown)
+# YouTubeDownloader - consloeApp(only window)
 I created a program that wasn't really necessary. 
 This program uses the **YT-DLP** and **FFMPEG** libraries for downloading audio or video clips from YouTube. 
 I wrote it in terminal format. Of course, **YT-DLP** is much easier to use than this program.
