@@ -29,4 +29,6 @@ I also give the sauce code of this program.
      - find "**Run Code configuration**"
      - then find "**Run In Terminal**" and click enable
      - then find "**Save File Before Run**" and click enable
+       ![image](https://github.com/user-attachments/assets/4e7ce34f-ed2e-4aad-af80-56e8fefc64ec)
+
      
