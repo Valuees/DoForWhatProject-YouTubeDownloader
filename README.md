@@ -10,8 +10,8 @@ I also give the sauce code of this program.
 2. move the .exe file to that Folder you just Create
 3. create program shortcut for easy use
 4. run program
-   -The first run may take a few minutes and there may be a warning from windown protection that it may be a Trojan.
-   dont worry you can check the sauce code and build by yourself
+   - The first run may take a few minutes and there may be a warning from windown protection that it may be a Trojan.
+   - dont worry you can check the sauce code and build by yourself
 
 ## build by yourself
    1. Install [**TDM GCC**](https://jmeubank.github.io/tdm-gcc/)
@@ -25,7 +25,7 @@ I also give the sauce code of this program.
          - install [**TDM GCC**](https://jmeubank.github.io/tdm-gcc/)
          - open extention and install [**C/C++ Extention pack**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack) after install "**C/C++ Extention pack**" do this
             - Ctrl+Shift+P type `C/C++:Edit COnfigurations (UI)` and click it
-            - then set "**Compiler path**" tp `C:\TDM-GCC-64\bin\gcc.exe`
+            - then set "**Compiler path**" to `C:\TDM-GCC-64\bin\gcc.exe`
             - then set "**IntelliSense mode**" to `windown-gcc-x64`
             - then set "**C standard**" and "**C++ standard**" to `c17` and `c++17`
       3. Install [**Code Runner**](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) For Easy run
