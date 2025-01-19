@@ -4,7 +4,7 @@ This program uses the **YT-DLP** and **FFMPEG** libraries for downloading audio 
 I wrote it in terminal format. Of course, **YT-DLP** is much easier to use than this program.
 I made it like mini project for study C programming ,idk it's just a student project Haha.
 I also give the sauce code of this program.
-How ever if you want to build by yourself please do with this step. 
+*How ever if you want to build by yourself please do with this step.* 
 
 ## Set-up
 1. Create Folder 
